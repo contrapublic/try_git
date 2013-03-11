@@ -1,3 +1,3 @@
 <?php
-	echo 'Hello World! Hello again... Goodbye.';
+	echo 'Hello World! I am a staging site.';
 ?>
