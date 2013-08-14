@@ -1,3 +1,3 @@
 <?php
-	echo 'Hello World! I am a staging site.';
+	echo 'Hello World! I am a staging site. Today.';
 ?>
