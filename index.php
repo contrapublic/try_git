@@ -4,4 +4,5 @@
 	echo 'an older commit';
 	echo 'made after the previous commit';
 	echo 'now introduce further edits';
+	echo '2013-12-06 22:50:00';
 ?>
